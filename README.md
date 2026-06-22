@@ -1,7 +1,15 @@
-# Hi, I'm Adwaith P. Ajith 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Adwaith+P.+Ajith+👋;Data+Scientist+%7C+ML+Engineer;Production-ready+ML+%7C+Real-world+Data&font=Fira+Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&pause=1000" />
+</p>
 
-**MSc Data Science @ CHRIST (Deemed to be University), Bengaluru**  
-Passionate about building production-ready ML systems, extracting insights from messy real-world data, and bridging the gap between research and deployment.
+<p align="center">
+  <b>MSc Data Science @ CHRIST (Deemed to be University), Bengaluru</b><br/>
+  Passionate about building production-ready ML systems, extracting insights from messy real-world data, and bridging the gap between research and deployment.
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adwaithpajith.adwaithpajith&style=flat&color=0088cc" alt="profile views"/>
+</p>
 
 ---
 
@@ -16,19 +24,11 @@ Passionate about building production-ready ML systems, extracting insights from 
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-**Languages & Query**  
-`Python` `SQL`
-
-**ML & Data Science**  
-`scikit-learn` `XGBoost` `SHAP` `NumPy` `SciPy` `Pandas`
-
-**Visualization & Dashboarding**  
-`Streamlit` `Tableau` `Plotly` `Folium`
-
-**Cloud & Tools**  
-`AWS (Cloud Foundations)` `MongoDB` `Git`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pytorch,git,github,aws,mongodb,vscode,jupyter&theme=dark" />
+</p>
 
 **Domain Knowledge**  
 Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare Analytics · Clustering & Manifold Methods
@@ -75,13 +75,29 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwaithpajith&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaithpajith&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adwaithpajith&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,prs_merged_percentage" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adwaithpajith&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/adwaithpajith/Port-Congestion-Forecasting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adwaithpajith&repo=Port-Congestion-Forecasting&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/adwaithpajith/Logistics-Decision-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adwaithpajith&repo=Logistics-Decision-tool&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/adwaithpajith/Geo-K-means-CA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adwaithpajith&repo=Geo-K-means-CA&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
