@@ -27,7 +27,7 @@
 ##  Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pytorch,git,github,aws,mongodb,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,aws,mongodb,vscode,tableau&theme=dark" />
 </p>
 
 **Domain Knowledge**  
