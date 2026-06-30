@@ -75,11 +75,15 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwaithpajith&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,prs_merged_percentage" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adwaithpajith&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&show=prs_merged,prs_merged_percentage" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adwaithpajith&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=adwaithpajith&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adwaithpajith&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -88,15 +92,15 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 <p align="center">
   <a href="https://github.com/adwaithpajith/Port-Congestion-Forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adwaithpajith&repo=Port-Congestion-Forecasting&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adwaithpajith&repo=Port-Congestion-Forecasting&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/adwaithpajith/Logistics-Decision-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adwaithpajith&repo=Logistics-Decision-tool&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adwaithpajith&repo=Logistics-Decision-tool&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/adwaithpajith/Geo-K-means-CA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adwaithpajith&repo=Geo-K-means-CA&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adwaithpajith&repo=Geo-K-means-CA&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
