@@ -15,16 +15,16 @@
 
 ## About Me
 
-- 🔭 Currently building: End-to-end ML & data science projects deployed on Streamlit Cloud
-- 🧪 Research: Geometric K-Means++ with curvature-aware centroids (Research Intern, Techno International New Town, Kolkata)
-- 🌱 Learning: Advanced ML, Cloud Architecture, Geospatial Data Systems
-- 🏆 Achievement: First Prize — Pitch Presentation @ IIT (BHU) Next-Gen Agritech Short Term Course
-- 📫 Reach me: [adwaith.p@msds.christuniversity.in](mailto:adwaith.p@msds.christuniversity.in) · [LinkedIn](https://linkedin.com/in/adwaith-p-ajith-769128244)
-- ⚽ Fun fact: Former college football player — I bring the same team-first energy to every sprint
+- Currently building: End-to-end ML & data science projects deployed on Streamlit Cloud
+- Research: Geometric K-Means++ with curvature-aware centroids (Research Intern, Techno International New Town, Kolkata)
+- Learning: Advanced ML, Cloud Architecture, Geospatial Data Systems
+- Achievement: First Prize — Pitch Presentation @ IIT (BHU) Next-Gen Agritech Short Term Course
+- Reach me: [adwaith.p@msds.christuniversity.in](mailto:adwaith.p@msds.christuniversity.in) · [LinkedIn](https://linkedin.com/in/adwaith-p-ajith-769128244)
+- Fun fact: Former college football player — I bring the same team-first energy to every sprint
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,aws,mongodb,vscode,tableau&theme=dark" />
@@ -35,9 +35,9 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛳️ [Port Congestion Forecasting System](https://github.com/adwaithpajith/Port-Congestion-Forecasting) · [Live App](https://busyports.streamlit.app/)
+###  [Port Congestion Forecasting System](https://github.com/adwaithpajith/Port-Congestion-Forecasting) · [Live App](https://busyports.streamlit.app/)
 `Python` `XGBoost` `SHAP` `Streamlit` `Folium` `NOAA AIS Data`
 
 - End-to-end AIS-based forecasting pipeline for the Port of LA/Long Beach — geofencing, vessel event detection, and 19 engineered features (lag, rolling stats, cyclical encoding)
@@ -46,7 +46,7 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 ---
 
-### 🚚 [Transport Advisor — Multimodal Logistics Decision Engine](https://github.com/adwaithpajith/Logistics-Decision-tool) · [Live App](http://logibrain.streamlit.app/)
+###  [Transport Advisor — Multimodal Logistics Decision Engine](https://github.com/adwaithpajith/Logistics-Decision-tool) · [Live App](http://logibrain.streamlit.app/)
 `Python` `Streamlit` `Plotly` `Folium` `OpenWeatherMap API` `USGS API`
 
 - Rule-based decision engine scoring 6 freight modes against shipment constraints (hazmat, urgency, budget, carbon priority)
@@ -55,7 +55,7 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 ---
 
-### 📐 [Geometric K-Means++ with Curvature-Aware Centroids](https://github.com/adwaithpajith/Geo-K-means-CA)
+###  [Geometric K-Means++ with Curvature-Aware Centroids](https://github.com/adwaithpajith/Geo-K-means-CA)
 `Python` `NumPy` `SciPy` `scikit-learn`
 
 - 3-tier manifold-aware clustering framework extending K-Means++ with geodesic distances, per-point curvature proxies, and geodesic medoid centroids
@@ -64,7 +64,7 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 ---
 
-### 🏥 [Hidden Urban Healthcare Deficit: Hospital Births vs. Postnatal Care](https://public.tableau.com/app/profile/adwaith.p.ajith/viz/Project_17717019824690/Dashboard1)
+###  [Hidden Urban Healthcare Deficit: Hospital Births vs. Postnatal Care](https://public.tableau.com/app/profile/adwaith.p.ajith/viz/Project_17717019824690/Dashboard1)
 `Tableau` `EDA` `NFHS-4 Data`
 
 - Engineered a "Postnatal Gap" metric from NFHS-4 urban data
@@ -72,7 +72,7 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adwaithpajith&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&show=prs_merged,prs_merged_percentage" height="165"/>
@@ -88,7 +88,7 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 ---
 
-## 📌 Pinned Repositories
+##  Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/adwaithpajith/Port-Congestion-Forecasting">
@@ -106,7 +106,7 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 - **AWS Academy Graduate – Cloud Foundations** — Amazon Web Services *(2025)*
 - **Next-Generation Agritech (AI & Predictive Analytics)** — IIT (BHU) / CHRIST University *(2026)*
