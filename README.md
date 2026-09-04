@@ -83,7 +83,7 @@ Machine Learning · Geospatial Analysis · Mathematical Modelling · Healthcare 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adwaithpajith&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adwaithpajith&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ---
